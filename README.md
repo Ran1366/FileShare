@@ -4,9 +4,9 @@
 
 本项目是一个使用C++11编写的局域网文件共享服务器，可用于局域网内的文件传输下载
 
-|Part I| Part II |Part III |
-|--|--|--|
-| [服务端](https://github.com/Ran1366/-SO/blob/master/文件扫描.md) |  [客户端](https://github.com/Ran1366/-SO/blob/master/数据管理.md)  |[逻辑层处理模块](https://github.com/Ran1366/-SO/blob/master/逻辑层处理.md)  |  
+|Part I| Part II |
+|--|--|
+| [服务端](https://github.com/Ran1366/FileShare/blob/master/服务端.md) |  [客户端](https://github.com/Ran1366/FileShare/blob/master/客户端.md)  |
 
 ## 运行过程
 
